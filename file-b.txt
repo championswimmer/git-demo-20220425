@@ -1,3 +1,4 @@
 Adding another file
 Adding a line to file B
+Adding one more line to B
 Adding new line to B
