@@ -1,3 +1,6 @@
 Adding another file
+///////THIS LINE TO CREATE CONFLICT/////////
 Adding a line to file B
+///////THIS LINE TO CREATE CONFLICT/////////
 Adding new line to B
+///////THIS LINE TO CREATE CONFLICT/////////
